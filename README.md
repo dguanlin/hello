@@ -1,1 +1,1 @@
-# 说明地址：https://guides.github.com/activities/hello-world/
+# 快速入门：https://guides.github.com/activities/hello-world/
